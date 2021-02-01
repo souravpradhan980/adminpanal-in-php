@@ -1,0 +1,281 @@
+.nav-head-about
+{
+    background-color: #2d2d2d ;
+    padding: 5px ;
+    position: fixed;
+    z-index: 1;
+
+}
+.about-header
+{
+    
+   background-color: #e0e0e0;
+    padding: 100px 100px;  
+}
+
+
+.nav-head
+{
+    background-color: #2d2d2d ;
+    padding: 15px ;
+    position: fixed;
+    z-index: 1;
+}
+.nav-bg
+{
+    background-color: #2d2d2d !important;
+}
+.brand-name
+{
+    display: block;
+    float: left;
+    font-size: 32px;
+    font-family: lato;
+    font-weight: bold;
+    color: #999999;
+}
+.navbar-brand:hover .brand-name
+{
+   color:white!important;
+}
+
+#logo
+{
+    
+    display: block;
+    background-color: #ff7878;
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+    border-radius : 360px;
+}
+.nav-link
+{
+    padding: 15px !important;
+    font-size: 19px;
+    font-weight: bold;
+}
+.active
+{
+    background-color:#ff7878; 
+}
+.active:hover
+{
+background-color: black;
+}
+.nav-link:hover
+{
+    color: white!important;
+}
+#header-img
+{
+    background-image: url(../IMAGES/header-bg.jpg);
+    padding-bottom: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header1
+{
+    margin-top: 150px!important;
+    line-height: 80px;
+
+    padding: 25px;
+}
+.p1
+{
+    padding-top: 10px;
+    font-size: 90px;
+    font-family: raleway;
+    
+    font-weight: 200px!important;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    color: white;
+    
+}
+.p2
+{
+    font-size: 85px;
+    font-weight: bold;
+    font-family: raleway;
+    color: white;
+    
+}
+.p3
+{
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    word-wrap: nowrap;
+    line-height: 50px!important;
+     word-spacing: 4px;
+    letter-spacing: 4px;
+}
+.header-details
+{
+    padding-top: 45px;
+}
+h4
+{
+    font-size: 18px!important;
+    font-family: raleway;
+    font-weight: bold;
+    padding: 3px;
+}
+.details-p4
+{
+    word-spacing: 2px;
+     display: block;
+    color: #555555;
+    font-size: 16px;
+   text-align: center;
+    font-family: lato;
+    padding-bottom: 60px;
+}
+.header2
+{
+    padding: 15px 100px;
+    
+    background-color: #f2f2f2;
+}
+.header3
+{
+    background-color: #e0e0e0;
+    padding: 70px 100px;
+}
+.footer-details1
+{
+  word-spacing: 2px;
+     display: block;
+    color: #555555;
+    font-size: 20px;
+   text-align: center;
+    font-family: lato;
+    padding-top: 10px;
+    padding-bottom: 60px;  
+}
+.footer
+{
+    padding-top: 80px;
+}
+.footer-head
+{
+    padding-bottom: 0px;
+}
+
+.banner1
+{
+    padding: 50px 0px 0px 0px;
+}
+.header4
+{
+   padding: 15px 100px 0px 100px;
+    
+    background-color: #f2f2f2;  
+}
+.header5
+{
+    
+   background-color:#ebebeb;
+    padding: 60px 60px;  
+}
+.footer2
+{
+    padding: 0px 80px;
+    padding-bottom: 80px;
+}
+.img-section
+{
+    margin: 0px;
+    padding: 0px !important;
+}
+.footer3
+{
+    
+    background-color: #ff7878;
+   text-align:justify;
+    padding: 0px 150px;
+}
+@media(max-width:768px)
+{
+    .footer3
+    {
+        padding: 0px;
+    }
+}
+.footer1
+{
+  background-color: #ff7878;  
+}
+.footer3 h4
+{
+    color: white;
+}
+.footer-section3
+{
+    
+    font-family: lato;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 28px;
+    color: white;
+}
+.footer-end
+{
+    background-color: #2d2d2d;
+    padding: 60px 100px;
+}
+<!...
+
+
+
+.p5
+{
+    
+}
+.about-header2
+{
+      background-color: #3498db;  
+     font-size: 18px!important;
+    font-family: raleway;
+    font-weight: bold;
+    padding-top: 50px;
+  color: white ;
+}
+.about-p2
+{
+    font-size: 16px;
+    font-family: lato;
+    color: #555555;
+    line-height: 28px;
+}
+.about-p1
+{
+    color: #333333;
+    font-weight: bold;
+ font-family: :raleway;
+    font-size: 18px;
+    padding-top: 5px;
+}
+.about-person
+{
+    background-color: #f2f2f2;
+    padding: 60px 60px;
+}
+.rounded-circle 
+{
+    width: 110px;
+    height: 110px;
+}
+.about-person-link:hover
+{
+    color: #555555;
+   text-decoration: none;
+   
+}
+.about-person-link
+{
+   color: #f85c37;  
+}
